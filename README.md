@@ -1,23 +1,44 @@
-# 👋 Hi, I’m Vikash Kumawat (@vikash-2006)
+# 👋 Hi, I'm Vikash Kumawat (@vikash-2006)
 
-👀 I’m interested in coding, databases, and the digital world.  
-🌱 I’m currently learning **C language, SQL, Git & GitHub, and Python basics** for my BCA projects.  
-💡 I enjoy solving logic problems, working on real-world examples, and improving my development skills every day.
+🎓 BCA student passionate about **data analysis**, coding, databases, and the digital world.
 
-💞️ I’m looking to collaborate on beginner-friendly projects related to:
-- C programming
-- SQL databases
-- Python exercises
-- Git & GitHub repository structure
+🌱 Currently learning and building with:
+- 🐍 **Python** — Pandas, NumPy, Plotly Express, Plotly Graph Objects
+- 🗄️ **SQL** — database design and queries
+- 💻 **C language** — logic building and fundamentals
+- 🔧 **Git & GitHub** — version control and collaboration
 
-📫 How to reach me:
-- Gmail: **kumawatvicky@gmail.com**
-- GitHub: **github.com/vikash-2006**
+📊 Recently completed an **Exploratory Data Analysis (EDA)** on a real-world Supply Chain dataset using Python and Plotly — uncovering insights on product sales, price-revenue relationships, shipping performance, and defect rates.
 
-🎯 Goals for 2025:
-- Build strong fundamentals in **DSA, C & SQL**
-- Upload clean and documented code regularly
-- Become confident in development & interviews
+💡 I enjoy solving logic problems, working on real-world datasets, and improving my skills every day.
 
-⚡ Fun fact:
-Learning code feels like unlocking superpowers one command at a time. ✨
+---
+
+## 💞️ Looking to Collaborate On
+- 📈 Data analysis & visualization projects (Python / Pandas / Plotly)
+- 🗃️ SQL database projects
+- 💻 C programming exercises
+- 🐙 Beginner-friendly Git & GitHub repositories
+
+---
+
+## 🛠️ Tools & Technologies
+`Python` `Pandas` `NumPy` `Plotly` `SQL` `C Language` `Git & GitHub` `Google Colab`
+
+---
+
+## 📫 How to Reach Me
+- 📧 Gmail: kumawatvicky@gmail.com
+- 🐙 GitHub: github.com/vikash-2006
+
+---
+
+## 🎯 Goals for 2026
+- 📊 Build and publish data analysis projects with real-world datasets
+- 🧠 Strengthen fundamentals in DSA, C & SQL
+- 📁 Upload clean, well-documented code regularly
+- 🚀 Become confident in development & data-focused interviews
+
+---
+
+⚡ **Fun fact:** Learning to analyze data feels like getting X-ray vision — suddenly you can see what's hiding inside the numbers. ✨
