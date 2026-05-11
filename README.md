@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vikash Kumawat (@vikash-2006)
+cat README.md# 👋 Hi, I'm Vikash Kumawat (@vikash-2006)
 
 🎓 BCA Student · Data Science Intern @ Regex Software, Jaipur
 📍 Commerce College Jaipur (2023–2026)
